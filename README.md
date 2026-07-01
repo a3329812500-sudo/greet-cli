@@ -3,12 +3,12 @@
 A tiny command-line tool that prints a friendly greeting. Built as a first
 project for practicing the GitHub pull-request workflow.
 
-## Installaton
+## Installation
 
 No dependencies are required — you only need Python 3.8 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/greet-cli.git
+git clone https://github.com/a3329812500-sudo/greet-cli.git
 cd greet-cli
 ```
 
